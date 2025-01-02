@@ -1,5 +1,5 @@
 
-# cara instal 
+# Cara instal 
 
 download semua file code
 
@@ -19,4 +19,4 @@ password    : admin123
 password adalah username, jadi password dimasukan nama dokter nya
 
 # Login Pasien
-daftar terlebih dahulu untuk masuk sebagai pasien dan mendapatkan detail dari dokter
+daftar pasien terlebih dahulu untuk masuk sebagai pasien dan mendapatkan detail dari dokter

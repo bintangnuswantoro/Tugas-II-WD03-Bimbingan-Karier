@@ -1,2 +1,9 @@
-# Tugas-II-WD03-Bimbingan-Karier
-tugas ini untuk memenuhi matkul bimbingan karir
+# Login admin
+```
+username    : admin
+password    : adminselalubenar
+```
+
+# Login dokter
+password adalah username, jadi password dimasukan nama dokter nya
+
